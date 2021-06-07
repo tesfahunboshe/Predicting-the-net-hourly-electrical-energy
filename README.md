@@ -12,4 +12,4 @@ The markdown file was also uploaded to Rpubs: https://rpubs.com/Tesfahun_Boshe/p
 To replicate the work:
 * clone the repository to your local machine
 * set the working directory to the folder: *Predicting-the-net-hourly-electrical-energy*
-* run the *Prediction_by_regression* 
+* run the *Prediction_by_regression.Rmd* file on RStudio. 
